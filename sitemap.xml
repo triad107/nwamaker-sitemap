@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>https://www.nwamaker.com/home</loc>
-</url>
-<url>
-  <loc>https://www.nwamaker.com/about</loc>
-</url>
-<url>
-  <loc>https://www.nwamaker.com/services</loc>
-</url>
-<url>
-  <loc>https://www.nwamaker.com/pricing</loc>
-</url>
-<url>
-  <loc>https://www.nwamaker.com/projects</loc>
-</url>
-<url>
-  <loc>https://www.nwamaker.com/contact</loc>
-</url>
-<url>
-  <loc>https://www.nwamaker.com/faq</loc>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <!-- Homepage -->
+   <url>
+      <loc>https://www.nwamaker.com/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- Example pages -->
+   <url>
+      <loc>https://www.nwamaker.com/about</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://www.nwamaker.com/services</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://www.nwamaker.com/contact</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Add more URLs as needed -->
+
 </urlset>
