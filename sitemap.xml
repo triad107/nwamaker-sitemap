@@ -1,23 +1,43 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://www.nwamaker.com/home</loc>
+	<loc>https://www.nwamaker.com/</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>http://www.nwamaker.com/about</loc>
+	<loc>https://www.nwamaker.com/home</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>http://www.nwamaker.com/services</loc>
+	<loc>https://www.nwamaker.com/about</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>http://www.nwamaker.com/pricing</loc>
+	<loc>https://www.nwamaker.com/services</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>http://www.nwamaker.com/projects</loc>
+	<loc>https://www.nwamaker.com/pricing</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>http://www.nwamaker.com/contact</loc>
+	<loc>https://www.nwamaker.com/projects</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>http://www.nwamaker.com/faq</loc>
+	<loc>https://www.nwamaker.com/contact</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.nwamaker.com/faq</loc>
+	<lastmod>2024-07-02T05:17:50+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 </urlset>
